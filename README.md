@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NicatGenceliyev
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning html, css, javascript, react.js
+- 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nicatgncliyev@gmail.com
+- 
