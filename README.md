@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExthisG
+- 👋 Hi, I’m @NicatGenceliyev
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html, css, javascript, react.js
 - 💞️ I’m looking to collaborate on ...
